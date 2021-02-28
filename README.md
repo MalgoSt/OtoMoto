@@ -4,10 +4,9 @@ OtoMoto - Price Prediction
 Author: <b>Małgorzata Stolarska</b><br>
 E-mail address: malgorzata.stolarska@gmail.com<br>
 
-The work is divided into three parts:
-- OtoMoto 1 - WebScrapping.ipynb
-- OtoMoto 2 - Data Preparation.ipynb
-- OtoMoto 3 - Price Prediction.ipynb
+The work is divided into two parts:
+- OtoMoto1_WebScrapping.ipynb
+- OtoMoto2_PricePreparation.ipynb
 
 <b>Purpose:</b>
 Building a model to predict car prices and classify prices as overstated, understated or average.
