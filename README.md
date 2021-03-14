@@ -9,5 +9,5 @@ The work is divided into two parts:
 - OtoMoto2_PricePreparation.ipynb
 
 <b>Purpose:</b>
-Building a model to predict car prices and classify prices as overstated, understated or average.
+Building a model to predict car prices and classify prices as overstated, understated or average.<br>
 Data from the OtoMoto.pl website obtained by webscrapping will be used to learn the model. The source code, that was used to retrieve the data, is in the notebook: OtoMoto - WebScrapping.ipynb.
