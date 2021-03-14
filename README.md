@@ -10,4 +10,4 @@ The work is divided into two parts:
 
 <b>Purpose:</b>
 Building a model to predict car prices and classify prices as overstated, understated or average.
-Model learning will be performed on the data from the website https://www.otomoto.pl/, obtained by web scrapping. The source code, that was used to retrieve the data, is in the notebook: OtoMoto - WebScrapping.ipynb.
+Data from the OtoMoto.pl website obtained by webscrapping will be used to learn the model. The source code, that was used to retrieve the data, is in the notebook: OtoMoto - WebScrapping.ipynb.
